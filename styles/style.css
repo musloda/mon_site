@@ -76,7 +76,7 @@ li {
     margin-bottom: 15px;
     font-weight: bold;
     }
-iframe, audio {
+iframe {
     display: block;
     margin: 0 auto;
     border: 3px solid #3fb6b2;
@@ -106,10 +106,11 @@ nav ul {
     list-style: none;
     display: flex;
     flex-direction: row;
+    padding: auto;
     margin: auto;
 }
 nav li {
-    font-size: 20pt;
+    font-size: 15pt;
     text-align: center;
     border: 4px dashed #20bcd5;
     padding: 1%;
