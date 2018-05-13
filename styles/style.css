@@ -106,14 +106,13 @@ nav ul {
     list-style: none;
     display: flex;
     flex-direction: row;
-    padding: auto;
     margin: auto;
 }
 nav li {
     font-size: 15pt;
     text-align: center;
     border: 4px dashed #20bcd5;
-    padding: 1%;
+    padding: auto;
     margin: auto;
 }
 
